@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SUJIN1108
-- 👀 I’m interested in cryptocoins and AIGC
-- 💞️ I’m looking to collaborate on application of AIGC
 - 📫 How to reach me sujinjean@outlook.com
 
 <!---
